@@ -1,0 +1,10 @@
+{
+  "application_type": "web",
+  "client_id": "cc_classic_fC19ISfwd7ZWGn1NqTOTrg5cFjhzJ",
+  "client_secret": "cc_sk_classic_ccj48LEEjgSHHoiQxiCvJxVEVkgsZKebhEAf3y0jhX73x4pHdP",
+  "id": "CCCDE7F7U",
+  "name": "thermas_cliente",
+  "redirect_uris": [
+    "https://www.termas.com.br"
+  ]
+}
